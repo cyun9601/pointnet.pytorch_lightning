@@ -76,6 +76,7 @@ Segmentation on  [A subset of shapenet](http://web.stanford.edu/~ericyi/project_
 Note that this implementation trains each class separately, so classes with fewer data will have slightly lower performance than reference implementation.
 
 Sample segmentation result:
+
 ![seg](https://raw.githubusercontent.com/fxia22/pointnet.pytorch/master/misc/show3d.png?token=AE638Oy51TL2HDCaeCF273X_-Bsy6-E2ks5Y_BUzwA%3D%3D)
 
 # Links
