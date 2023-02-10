@@ -25,8 +25,9 @@ This model has also been implemented for the modelnet40 data for classification 
 To use this data, download modelnet40 and put it in the `data/modelnet40` folder, making class folders inside.
 
 ex) 
-train: data/modelnet40/airplane/train/airplane_0001.off
-test: data/modelnet40/airplane/test/airplane_0627.off
+train: `data/modelnet40/airplane/train/airplane_0001.off`
+
+test: `data/modelnet40/airplane/test/airplane_0627.off`
 
 # Training
 
